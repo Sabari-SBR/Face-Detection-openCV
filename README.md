@@ -12,4 +12,4 @@ This project detect faces in images, videos and webcam feeds using openCV.
 
   ## Installation
   - Clone the repository:
-    $ git clone 
+    $ git clone https://github.com/Sabari-SBR/Face-Detection-openCV.git
